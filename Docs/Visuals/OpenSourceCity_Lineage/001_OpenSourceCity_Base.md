@@ -1,6 +1,6 @@
 # OpenSourceCity — Base Layer
 
-![OpenSourceCity Base](../../../city.png)
+![OpenSourceCity Cloud Layer](../../../MicroscopicGold%20Rain%20Arrives.png)
 
 ---
 
